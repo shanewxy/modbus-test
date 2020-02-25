@@ -1,0 +1,6 @@
+# github.com/goburrow/modbus v0.1.0
+github.com/goburrow/modbus
+# github.com/goburrow/serial v0.1.0
+github.com/goburrow/serial
+# github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
+github.com/tbrandon/mbserver
