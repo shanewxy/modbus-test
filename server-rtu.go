@@ -12,7 +12,7 @@ func main() {
 
 	serv := mbserver.NewServer()
 	// socat -d -d pty,raw,echo=0 pty,raw,echo=0
-	err := serv.ListenRTU(&serial.Config{Address: "/dev/ttys008"})
+	err := serv.ListenRTU(&serial.Config{Address: "/dev/ttys007"})
 	if err != nil {
 		log.Printf("%v\n", err)
 	}
